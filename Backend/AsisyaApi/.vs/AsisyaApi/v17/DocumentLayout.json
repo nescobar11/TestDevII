@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|tests\\AsisyaApi.UnitTests\\AsisyaApi.UnitTests.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\tests\\asisyaapi.unittests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55555555-5555-5555-5555-555555555555}|tests\\AsisyaApi.UnitTests\\AsisyaApi.UnitTests.csproj|solutionrelative:tests\\asisyaapi.unittests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|solutionrelative:src\\asisyaapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|solutionrelative:src\\asisyaapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Migrations\\20260923205509_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AsisyaApi.Infrastructure\\Migrations\\20260923205509_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|solutionrelative:src\\asisyaapi.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|solutionrelative:src\\asisyaapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|solutionrelative:src\\asisyaapi.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|solutionrelative:src\\asisyaapi.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.infrastructure\\background\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|solutionrelative:src\\asisyaapi.infrastructure\\background\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.infrastructure\\background\\productbulkjobstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|solutionrelative:src\\asisyaapi.infrastructure\\background\\productbulkjobstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.infrastructure\\background\\backgroundjobqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj|solutionrelative:src\\asisyaapi.infrastructure\\background\\backgroundjobqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\AsisyaApi.Domain\\AsisyaApi.Domain.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\AsisyaApi.Domain\\AsisyaApi.Domain.csproj|solutionrelative:src\\asisyaapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\AsisyaApi.Domain\\AsisyaApi.Domain.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\AsisyaApi.Domain\\AsisyaApi.Domain.csproj|solutionrelative:src\\asisyaapi.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\mappings\\entitymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\mappings\\entitymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\interfaces\\iproductbulkjobstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\interfaces\\iproductbulkjobstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\interfaces\\ibackgroundjobqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\interfaces\\ibackgroundjobqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\products\\productquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\products\\productquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\products\\bulkjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\products\\bulkjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\products\\bulkcreateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\products\\bulkcreateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\common\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\common\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\categories\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\AsisyaApi.Application\\AsisyaApi.Application.csproj|solutionrelative:src\\asisyaapi.application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|solutionrelative:src\\asisyaapi.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|solutionrelative:src\\asisyaapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|d:\\downloads\\asisya_backend_net8\\asisyaapi\\src\\asisyaapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\AsisyaApi.Api\\AsisyaApi.Api.csproj|solutionrelative:src\\asisyaapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:21:53.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Api\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\Program.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:44:14.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:44:03.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:12:54.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:54:28.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\tests\\AsisyaApi.UnitTests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\AsisyaApi.UnitTests\\ProductServiceTests.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\tests\\AsisyaApi.UnitTests\\ProductServiceTests.cs",
+              "RelativeToolTip": "tests\\AsisyaApi.UnitTests\\ProductServiceTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:59:14.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:24:49.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:25:17.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260923205509_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Migrations\\20260923205509_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Infrastructure\\Migrations\\20260923205509_InitialCreate.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Migrations\\20260923205509_InitialCreate.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Infrastructure\\Migrations\\20260923205509_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T20:55:10.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:20:14.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductBulkJobStore.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Background\\ProductBulkJobStore.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Infrastructure\\Background\\ProductBulkJobStore.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Background\\ProductBulkJobStore.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Infrastructure\\Background\\ProductBulkJobStore.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:15:57.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:13:22.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:13:19.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:13:06.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntityMappings.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Mappings\\EntityMappings.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Mappings\\EntityMappings.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Mappings\\EntityMappings.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Mappings\\EntityMappings.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:13:00.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueuedHostedService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Background\\QueuedHostedService.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Infrastructure\\Background\\QueuedHostedService.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Background\\QueuedHostedService.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Infrastructure\\Background\\QueuedHostedService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:56:32.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BackgroundJobQueue.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Background\\BackgroundJobQueue.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Infrastructure\\Background\\BackgroundJobQueue.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\Background\\BackgroundJobQueue.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Infrastructure\\Background\\BackgroundJobQueue.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:56:20.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:12:51.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductBulkJobStore.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\IProductBulkJobStore.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Interfaces\\IProductBulkJobStore.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\IProductBulkJobStore.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Interfaces\\IProductBulkJobStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:12:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:12:46.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:12:43.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBackgroundJobQueue.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\IBackgroundJobQueue.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\Interfaces\\IBackgroundJobQueue.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\Interfaces\\IBackgroundJobQueue.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\Interfaces\\IBackgroundJobQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:12:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Products\\UpdateProductDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\UpdateProductDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Products\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:11:27.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductQueryDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\ProductQueryDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Products\\ProductQueryDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\ProductQueryDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Products\\ProductQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:11:16.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\ProductDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Products\\ProductDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\ProductDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Products\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:11:07.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Common\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Common\\PagedResultDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Common\\PagedResultDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Common\\PagedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:09:19.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Products\\CreateProductDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\CreateProductDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Products\\CreateProductDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:10:01.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BulkJobDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\BulkJobDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Products\\BulkJobDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\BulkJobDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Products\\BulkJobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:09:51.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BulkCreateProductDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\BulkCreateProductDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Products\\BulkCreateProductDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Products\\BulkCreateProductDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Products\\BulkCreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:09:42.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Categories\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:08:08.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:43:55.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:44:31.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:44:41.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Application\\DTOs\\Categories\\CategoryDto.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Application\\DTOs\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Application\\DTOs\\Categories\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:44:44.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\AsisyaApi.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:36:30.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AsisyaApi.Api\\appsettings.json",
+              "ToolTip": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Api\\appsettings.json",
+              "RelativeToolTip": "src\\AsisyaApi.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T18:42:49.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

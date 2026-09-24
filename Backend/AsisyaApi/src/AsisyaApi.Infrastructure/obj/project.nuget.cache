@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqvYyIMkJwg=",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Asisya_Backend_NET8\\AsisyaApi\\src\\AsisyaApi.Infrastructure\\AsisyaApi.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natalia S\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.20\\microsoft.entityframeworkcore.8.0.20.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.20\\microsoft.entityframeworkcore.abstractions.8.0.20.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.20\\microsoft.entityframeworkcore.analyzers.8.0.20.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.8\\microsoft.entityframeworkcore.relational.8.0.8.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.12\\microsoft.extensions.configuration.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.12\\microsoft.extensions.diagnostics.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.12\\microsoft.extensions.fileproviders.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.12\\microsoft.extensions.hosting.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.options\\10.0.12\\microsoft.extensions.options.10.0.12.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.12\\microsoft.extensions.primitives.10.0.12.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\npgsql\\8.0.4\\npgsql.8.0.4.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.8\\npgsql.entityframeworkcore.postgresql.8.0.8.nupkg.sha512",
+    "C:\\Users\\Natalia S\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.12\\system.diagnostics.diagnosticsource.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
